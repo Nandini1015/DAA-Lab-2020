@@ -1,8 +1,0 @@
-
-    Step 1 - Construct a Binary Tree with given list of Elements.
-    Step 2 - Transform the Binary Tree into Min Heap.
-    Step 3 - Delete the root element from Min Heap using Heapify method.
-    Step 4 - Put the deleted element into the Sorted list.
-    Step 5 - Repeat the same until Min Heap becomes empty.
-    Step 6 - Display the sorted list.
-
